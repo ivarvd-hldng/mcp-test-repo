@@ -1,1 +1,2 @@
-IyBUZXN0IEZpbGUKVGhpcyBpcyBhIHRlc3QgZmlsZSB0byB2ZXJpZnkgTUNQIHNlcnZlciBmdW5jdGlvbmFsaXR5Lg==
+# Test File
+This is a test file to verify MCP server functionality.
